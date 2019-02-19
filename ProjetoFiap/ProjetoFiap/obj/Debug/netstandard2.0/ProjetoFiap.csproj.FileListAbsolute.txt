@@ -1,0 +1,15 @@
+D:\ProjetoFiap\ProjetoFiap\ProjetoFiap\ProjetoFiap\bin\Debug\netstandard2.0\ProjetoFiap.deps.json
+D:\ProjetoFiap\ProjetoFiap\ProjetoFiap\ProjetoFiap\bin\Debug\netstandard2.0\ProjetoFiap.dll
+D:\ProjetoFiap\ProjetoFiap\ProjetoFiap\ProjetoFiap\bin\Debug\netstandard2.0\ProjetoFiap.pdb
+D:\ProjetoFiap\ProjetoFiap\ProjetoFiap\ProjetoFiap\obj\Debug\netstandard2.0\ProjetoFiap.csprojAssemblyReference.cache
+D:\ProjetoFiap\ProjetoFiap\ProjetoFiap\ProjetoFiap\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ProjetoFiap\ProjetoFiap\ProjetoFiap\ProjetoFiap\obj\Debug\netstandard2.0\loginPage.xaml.g.cs
+D:\ProjetoFiap\ProjetoFiap\ProjetoFiap\ProjetoFiap\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ProjetoFiap\ProjetoFiap\ProjetoFiap\ProjetoFiap\obj\Debug\netstandard2.0\ProjetoFiap.csproj.CoreCompileInputs.cache
+D:\ProjetoFiap\ProjetoFiap\ProjetoFiap\ProjetoFiap\obj\Debug\netstandard2.0\ProjetoFiap.AssemblyInfoInputs.cache
+D:\ProjetoFiap\ProjetoFiap\ProjetoFiap\ProjetoFiap\obj\Debug\netstandard2.0\ProjetoFiap.AssemblyInfo.cs
+D:\ProjetoFiap\ProjetoFiap\ProjetoFiap\ProjetoFiap\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ProjetoFiap\ProjetoFiap\ProjetoFiap\ProjetoFiap\obj\Debug\netstandard2.0\ProjetoFiap.dll
+D:\ProjetoFiap\ProjetoFiap\ProjetoFiap\ProjetoFiap\obj\Debug\netstandard2.0\ProjetoFiap.pdb
+D:\ProjetoFiap\ProjetoFiap\ProjetoFiap\ProjetoFiap\obj\Debug\netstandard2.0\PerfilPage.xaml.g.cs
+D:\ProjetoFiap\ProjetoFiap\ProjetoFiap\ProjetoFiap\obj\Debug\netstandard2.0\SaldoPage.xaml.g.cs
